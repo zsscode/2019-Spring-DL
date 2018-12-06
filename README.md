@@ -50,9 +50,9 @@
 
 `Week` | `Day` | `Date` | `Topic` | `Slides Covered`
 --- | --- | --- | --- | ---
-  | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 ||
 1 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 |
-  | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 ||
+1 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 |
+2 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 |
 2 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 |
 
 ## Course Policies
