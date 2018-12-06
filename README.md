@@ -43,13 +43,11 @@
 
 **Textbooks**
 * Deep Learning with Python" by François Chollet
-<img src="syllabus/dlwithpython.jpg" align="middle" width="150"/>  
+<img src="syllabus/dlwithpython.jpeg" align="middle" height="150"/>  
 * Machine Learning Yearning" by Andrew Ng
-<img src="syllabus/mlyearning.jpg" align="middle" width="150"/>  
-* Machine Learning Yearning" by Andrew Ng
-<img src="syllabus/mlyearning.jpg" align="middle" width="150"/>  
+<img src="syllabus/mlyearning.jpg" align="middle" height="150"/>  
 * Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-<img src="syllabus/aigoodfellow.jpg" align="middle" width="150"/>  
+<img src="syllabus/dlgoodfellow.jpg" align="middle" height="150"/>  
 
 ## Course Topics, Schedule & Deadlines
 <img src="course-schedule.png" align="middle" width="800"/>   
