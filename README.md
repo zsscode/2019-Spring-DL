@@ -50,10 +50,40 @@
 
 `Week` | `Day` | `Date` | `Topic` | `Slides Covered`
 --- | --- | --- | --- | ---
-1 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 |
-1 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 |
-2 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 |
-2 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 |
+1 | 1 | Jan 22, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 |
+1 | 2 | Jan 24, Thu |  |  |
+2 | 3 | Jan 29, Tue |  |  |
+2 | 4 | Jan 31, Thu |  |  |
+3 | 3 | Jan 29, Tue |  |  |
+3 | 4 | Jan 31, Thu |  |  |
+4 | 3 | Jan 29, Tue |  |  |
+4 | 4 | Jan 31, Thu |  |  |
+5 | 3 | Jan 29, Tue |  |  |
+5 | 4 | Jan 31, Thu |  |  |
+6 | 3 | Jan 29, Tue |  |  |
+6 | 4 | Jan 31, Thu |  |  |
+7 | 3 | Jan 29, Tue |  |  |
+7 | 4 | Jan 31, Thu |  |  |
+8 | 3 | Jan 29, Tue |  |  |
+8 | 4 | Jan 31, Thu |  |  |
+9 | 3 | Jan 29, Tue |  |  |
+9 | 4 | Jan 31, Thu |  |  |
+10 | 3 | Jan 29, Tue |  |  |
+10 | 4 | Jan 31, Thu |  |  |
+11 | 3 | Jan 29, Tue |  |  |
+11 | 4 | Jan 31, Thu |  |  |
+12 | 3 | Jan 29, Tue |  |  |
+12 | 4 | Jan 31, Thu |  |  |
+13 | 3 | Jan 29, Tue |  |  |
+13 | 4 | Jan 31, Thu |  |  |
+14 | 3 | Jan 29, Tue |  |  |
+14 | 4 | Jan 31, Thu |  |  |
+15 | 3 | Jan 29, Tue |  |  |
+15 | 4 | Jan 31, Thu |  |  |
+Final Exam (Date & Time TBD)|
+
+
+
 
 ## Course Policies
 **General**
