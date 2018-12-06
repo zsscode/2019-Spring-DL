@@ -47,7 +47,13 @@
 * "Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville <br/> <img src="syllabus/dlgoodfellow.jpg" align="middle" height="150"/>  
 
 ## Course Topics, Schedule & Deadlines
-<img src="course-schedule.png" align="middle" width="800"/>   
+
+`Week` | `Day` | `Date` | `Topic` | `Slides Covered`
+--- | --- | --- | --- | ---
+1 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15
+1 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15
+1 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15
+1 | 1 | Jan 15, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15
 
 ## Course Policies
 **General**
