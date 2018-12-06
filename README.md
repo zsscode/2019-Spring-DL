@@ -80,7 +80,7 @@
 | 14 | 4 | Jan 31, Thu |  |  |
 | 15 | 3 | Jan 29, Tue |  |  |
 | 15 | 4 | Jan 31, Thu |  |  |
-| <td colspan=3> Final Exam (Date & Time TBD) |
+| Final Exam (Date & Time TBD) |
 
 ## Course Policies
 **General**
