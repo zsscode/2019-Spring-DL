@@ -98,9 +98,10 @@
 * You will automatically fail the course if you miss more than 4 classes
 
 ## Assessment/Grading
-**Grade Composition (4300 - Undergraduate)**
+**Grade Composition**
 * 70 points = Mid-term Test
 * 30 points = Final Project
+* 1 bonus point to everyone if 80%+ complete the course evaluation survey
 
 **Grading Scale**
 * A for >= 90% 
