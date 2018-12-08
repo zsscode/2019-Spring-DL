@@ -109,3 +109,7 @@
 * C for >= 70%
 * D for >=60%
 * F for < 60% 
+
+## Tips for Success
+* "Code comments are not needed" - Write code that works, you will get no points for code comments (no matter how clear)
+* "The devil is in the detail" - double check your understanding of the details
