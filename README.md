@@ -50,24 +50,24 @@
 
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
-| 1 | 01 | Jan 22, Tue | Module01 - Python and Numpy |
-| 1 | 02 | Jan 24, Thu | Module01 - Lab and Questions |
-| 2 | 03 | Jan 29, Tue | Module02 - Basic Feedforward NNs |
-| 2 | 04 | Jan 31, Thu | Module02 - Lab and Questions |
-| 3 | 05 | Feb 05, Tue | Module03 - Basic Convolutional NNs |
-| 3 | 06 | Feb 07, Thu | Module03 - Lab and Questions |
-| 4 | 07 | Feb 12, Tue | Revision for Test |
-| 4 | 08 | Feb 14, Thu | Test (Last day to drop course is the 18th) |
-| 5 | 09 | Feb 19, Tue |  |
-| 5 | 10 | Feb 21, Thu |  |
-| 6 | 11 | Feb 26, Tue |  |
-| 6 | 12 | Feb 28, Thu |  |
-| 7 | 13 | Mar 05, Tue |  |
-| 7 | 14 | Mar 07, Thu |  |
-| 8 | 15 | Mar 12, Tue |  |
-| 8 | 16 | Mar 14, Thu |  |
-| 9 | 17 | Mar 19, Tue |  |
-| 9 | 18 | Mar 21, Thu |  |
+| 01 | 01 | Jan 22, Tue | Module01 - Python and Numpy |
+| 01 | 02 | Jan 24, Thu | Module01 - Lab and Questions |
+| 02 | 03 | Jan 29, Tue | Module02 - Basic Feedforward NNs |
+| 02 | 04 | Jan 31, Thu | Module02 - Lab and Questions |
+| 03 | 05 | Feb 05, Tue | Module03 - Basic Convolutional NNs |
+| 03 | 06 | Feb 07, Thu | Module03 - Lab and Questions |
+| 04 | 07 | Feb 12, Tue | Revision for Test |
+| 04 | 08 | Feb 14, Thu | Test (Last day to drop course is the 18th) |
+| 05 | 09 | Feb 19, Tue |  |
+| 05 | 10 | Feb 21, Thu |  |
+| 06 | 11 | Feb 26, Tue |  |
+| 06 | 12 | Feb 28, Thu |  |
+| 07 | 13 | Mar 05, Tue |  |
+| 07 | 14 | Mar 07, Thu |  |
+| 08 | 15 | Mar 12, Tue |  |
+| 08 | 16 | Mar 14, Thu |  |
+| 09 | 17 | Mar 19, Tue |  |
+| 09 | 18 | Mar 21, Thu |  |
 | - | - | - | Spring Recess |
 | 10 | 19 | Apr 02, Tue |  |
 | 10 | 20 | Apr 04, Thu |  |
@@ -81,7 +81,7 @@
 | 14 | 28 | May 02, Thu |  |
 | 15 | 29 | May 07, Tue |  |
 | 15 | 30 | May 09, Thu |  |
-| Final Exam (Date & Time TBD) |
+| - | - | - | Final Exam (Date & Time TBD) |
 
 ## Course Policies
 **General**
