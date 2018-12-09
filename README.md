@@ -20,13 +20,13 @@
 
 * Deep learning is rapidly becoming popular because of its high applicability and superior performance in almost all domains where we have been applying machine learning. Deep learning based applications have reached or surpassed human performance not only for industrial problems like object classification and speech recognition but also for many problems in the field of biology and medicine. For instance, recently deep learning is demonstrated to outperform human radiologists in detecting pneumonia from chest X-rays.
 
-**This course aims to** 
+**This course aims to:** 
 * Revise the recipe for machine learning and introduce deep learning
 * Explain what makes deep learning powerful compared to traditional machine learning methods 
 * Cover the basic mathematical foundations of deep learning such as vector operations 
 * Introduce the various flavors of deep learning such as dense neural networks, convolutional neural networks, and recurrent neural networks 
 * Delve into building, training, and using deep neural networks for solving various machine learning problems such as image classification and protein contact prediction
-* Cover how a deep learning architecture actually works and how to debug 
+* Cover how a deep learning architectures actually work and how to debug 
 
 **Upon completing the course students will be able to (Learning Outcomes):** 
 * Learn mathematical foundations for deep learning 
@@ -52,22 +52,22 @@
 | --- | --- | --- | --- | 
 | 01 | 01 | Jan 22, Tue | Module01 - Python and Numpy (ToDo - create notebook)|
 | 01 | 02 | Jan 24, Thu | Module01 - Lab and Questions |
-| 02 | 03 | Jan 29, Tue | Module02 - Basic Feedforward NNs |
-| 02 | 04 | Jan 31, Thu | Module02 - Lab and Questions |
-| 03 | 05 | Feb 05, Tue | Module03 - Basic Convolutional NNs |
-| 03 | 06 | Feb 07, Thu | Module03 - Lab and Questions |
+| 02 | 03 | Jan 29, Tue | |
+| 02 | 04 | Jan 31, Thu | |
+| 03 | 05 | Feb 05, Tue | |
+| 03 | 06 | Feb 07, Thu | |
 | 04 | 07 | Feb 12, Tue | Revision for Test |
 | 04 | 08 | Feb 14, Thu | Test (Last day to drop course is the 18th) |
-| 05 | 09 | Feb 19, Tue |  |
-| 05 | 10 | Feb 21, Thu |  |
-| 06 | 11 | Feb 26, Tue |  |
-| 06 | 12 | Feb 28, Thu |  |
-| 07 | 13 | Mar 05, Tue |  |
-| 07 | 14 | Mar 07, Thu |  |
-| 08 | 15 | Mar 12, Tue |  |
-| 08 | 16 | Mar 14, Thu |  |
-| 09 | 17 | Mar 19, Tue |  |
-| 09 | 18 | Mar 21, Thu |  |
+| 05 | 09 | Feb 19, Tue | |
+| 05 | 10 | Feb 21, Thu | |
+| 06 | 11 | Feb 26, Tue | |
+| 06 | 12 | Feb 28, Thu | |
+| 07 | 13 | Mar 05, Tue | |
+| 07 | 14 | Mar 07, Thu | |
+| 08 | 15 | Mar 12, Tue | |
+| 08 | 16 | Mar 14, Thu | |
+| 09 | 17 | Mar 19, Tue | |
+| 09 | 18 | Mar 21, Thu | |
 | - | - | - | Spring Recess |
 | 10 | 19 | Apr 02, Tue |  |
 | 10 | 20 | Apr 04, Thu |  |
@@ -80,8 +80,26 @@
 | 14 | 27 | Apr 30, Tue |  |
 | 14 | 28 | May 02, Thu |  |
 | 15 | 29 | May 07, Tue |  |
-| 15 | 30 | May 09, Thu |  |
+| 15 | 30 | May 09, Thu | Module xxxx - Limitations and Future of DL (Ch9 in DLP) |
 | - | - | - | Final Exam (Date & Time TBD) |
+
+**Modules:**
+1. Python and Numpy (with lab)  
+1. Basic Feedforward NNs (with lab)  
+1. Basic Convolutional NNs (with lab)  
+1. Machine Learning Basics (Ch5 of DL)
+1. What is Deep Learning? (Ch1 in DLP)
+Module05 - Mathematical Building Blocks (Ch2 in DLP)
+Module06 - Getting Started with NNs (Ch3 in DLP)
+Module07 - Fundamentals of ML (Ch4 in DLP)
+Module08 - DL for Computer Vision (Ch5 in DLP)
+Module09 - DL for Text and Sequences (Ch6 in DLP)
+Module10 - Advanced DL Practices (Ch7 in DLP)
+Module10 - Advanced DL Practices (Ch7 in DLP)
+Module11 - Generative DL (Ch8 in DLP)
+Module11 - Generative DL (Ch8 in DLP)
+Regulalization 
+
 
 ## Course Policies
 **General**
