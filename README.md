@@ -49,7 +49,7 @@
 ## Course Topics, Schedule & Deadlines
 
 | `Week` | `Day` | `Date` | `Topic` | 
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | 
 | 1 | 01 | Jan 22, Tue | Module01 - Python and Numpy |
 | 1 | 02 | Jan 24, Thu | Module01 - Lab and Questions |
 | 2 | 03 | Jan 29, Tue | Module02 - Basic Feedforward NNs |
