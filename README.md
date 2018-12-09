@@ -57,7 +57,7 @@
 | 03 | 05 | Feb 05, Tue | |
 | 03 | 06 | Feb 07, Thu | |
 | 04 | 07 | Feb 12, Tue | Revision for Test |
-| 04 | 08 | Feb 14, Thu | Test (Last day to drop course is the 18th) |
+| 04 | 08 | Feb 14, Thu | Test (Last day to drop a course is Feb 18th) |
 | 05 | 09 | Feb 19, Tue | |
 | 05 | 10 | Feb 21, Thu | |
 | 06 | 11 | Feb 26, Tue | |
@@ -81,7 +81,7 @@
 | 14 | 28 | May 02, Thu |  |
 | 15 | 29 | May 07, Tue |  |
 | 15 | 30 | May 09, Thu |  |
-| - | - | - | Final Exam (Date & Time TBD) |
+| - | - | - | Final Exam (Date & Time TBD) |  
 
 **Modules:**
 1. Python and Numpy (with lab)  
