@@ -80,26 +80,33 @@
 | 14 | 27 | Apr 30, Tue |  |
 | 14 | 28 | May 02, Thu |  |
 | 15 | 29 | May 07, Tue |  |
-| 15 | 30 | May 09, Thu | Module xxxx - Limitations and Future of DL (Ch9 in DLP) |
+| 15 | 30 | May 09, Thu |  |
 | - | - | - | Final Exam (Date & Time TBD) |
 
 **Modules:**
 1. Python and Numpy (with lab)  
-1. Basic Feedforward NNs (with lab)  
-1. Basic Convolutional NNs (with lab)  
+1. Basic Feedforward Neural Networks (with lab)  
+1. Basic Convolutional Neural Networks (with lab)
+2. Setting up Development and Test sets (Ch5 to Ch11 in MLY)
+2. Basic Error Analysis (Ch13 to Ch18 in MLY)
+2. Bias, Variance, and Learning Curves (Ch20 to Ch32 in MLY)
+2. Training and Testing on Different Distributions, & Debugging Inference Algorithms (Ch36 to Ch46 in MLY)
+2. End-to-end Deep Learning & Error Analysis by Parts (Ch47 to Ch57 in MLY)
 1. Machine Learning Basics (Ch5 of DL)
 1. What is Deep Learning? (Ch1 in DLP)
-Module05 - Mathematical Building Blocks (Ch2 in DLP)
-Module06 - Getting Started with NNs (Ch3 in DLP)
-Module07 - Fundamentals of ML (Ch4 in DLP)
-Module08 - DL for Computer Vision (Ch5 in DLP)
-Module09 - DL for Text and Sequences (Ch6 in DLP)
-Module10 - Advanced DL Practices (Ch7 in DLP)
-Module10 - Advanced DL Practices (Ch7 in DLP)
-Module11 - Generative DL (Ch8 in DLP)
-Module11 - Generative DL (Ch8 in DLP)
-Regulalization 
-
+1. Mathematical Building Blocks (Ch2 in DLP)
+1. Getting Started with Neural Networks (Ch3 in DLP)
+1. Fundamentals of Machine Learning (Ch4 in DLP)
+1. Deep Learning for Computer Vision (Ch5 in DLP)
+1. Convolutional Networks (Ch9 in DL)
+1. Deep Learning for Text and Sequences (Ch6 in DLP)
+1. Advanced Deep Learning Practices (Ch7 in DLP)
+1. Advanced Deep Learning Practices (Ch7 in DLP)
+1. Generative Deep Learning (Ch8 in DLP)
+1. Regulalization for Deep Learning (Ch7 in DL)
+1. Optimization for Training Deep Models (Ch8 in DL)
+1. Sequence Modeling: Recurrent and Recursive Nets (Ch10 in DL)
+1. Limitations and Future of DL (Ch9 in DLP)
 
 ## Course Policies
 **General**
