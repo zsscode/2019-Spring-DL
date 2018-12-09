@@ -50,7 +50,7 @@
 
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
-| 01 | 01 | Jan 22, Tue | Module01 - Python and Numpy |
+| 01 | 01 | Jan 22, Tue | Module01 - Python and Numpy (ToDo - create notebook)|
 | 01 | 02 | Jan 24, Thu | Module01 - Lab and Questions |
 | 02 | 03 | Jan 29, Tue | Module02 - Basic Feedforward NNs |
 | 02 | 04 | Jan 31, Thu | Module02 - Lab and Questions |
