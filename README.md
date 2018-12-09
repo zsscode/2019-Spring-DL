@@ -46,7 +46,7 @@
 * "Machine Learning Yearning" by Andrew Ng <br/> <img src="syllabus/mlyearning.jpg" align="middle" height="150"/>  
 * "Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville <br/> <img src="syllabus/dlgoodfellow.jpg" align="middle" height="150"/>  
 
-## Course Topics, Schedule & Deadlines
+## Course Topics & Schedule
 
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
