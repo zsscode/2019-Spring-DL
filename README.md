@@ -137,4 +137,4 @@
 
 ## Tips for Success
 * "Code comments are not needed" - Instead focus on writing code that works
-* "The devil is in the detail" - double check your understanding of the details
+* "The devil is in the detail" - Often recheck your understanding of the details
