@@ -48,39 +48,39 @@
 
 ## Course Topics, Schedule & Deadlines
 
-| `Week` | `Day` | `Date` | `Topic` | `Slides Covered` |
+| `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | --- |
-| 1 | 1 | Jan 22, Tue | A quick intro to Dense NNs and CNNs | BasicIntro 1-15 |
-| 1 | 2 | Jan 24, Thu |  |  |
-| 2 | 3 | Jan 29, Tue |  |  |
-| 2 | 4 | Jan 31, Thu |  |  |
-| 3 | 5 | Jan 29, Tue |  |  |
-| 3 | 6 | Jan 31, Thu |  |  |
-| 4 | 7 | Jan 29, Tue |  |  |
-| 4 | 8 | Jan 31, Thu |  |  |
-| 5 | 9 | Jan 29, Tue |  |  |
-| 5 | 10 | Jan 31, Thu |  |  |
-| 6 | 11 | Jan 29, Tue |  |  |
-| 6 | 12 | Jan 31, Thu |  |  |
-| 7 | 13 | Jan 29, Tue |  |  |
-| 7 | 14 | Jan 31, Thu |  |  |
-| 8 | 15 | Jan 29, Tue |  |  |
-| 8 | 16 | Jan 31, Thu |  |  |
-| 9 | 17 | Jan 29, Tue |  |  |
-| 9 | 18 | Jan 31, Thu |  |  |
-| Spring Recess |
-| 10 | 19 | Jan 29, Tue |  |  |
-| 10 | 20 | Jan 31, Thu |  |  |
-| 11 | 21 | Jan 29, Tue |  |  |
-| 11 | 22 | Jan 31, Thu |  |  |
-| 12 | 23 | Jan 29, Tue |  |  |
-| 12 | 24 | Jan 31, Thu |  |  |
-| 13 | 25 | Jan 29, Tue |  |  |
-| 13 | 26 | Jan 31, Thu |  |  |
-| 14 | 27 | Jan 29, Tue |  |  |
-| 14 | 28 | Jan 31, Thu |  |  |
-| 15 | 29 | Jan 29, Tue |  |  |
-| 15 | 30 | Jan 31, Thu |  |  |
+| 1 | 01 | Jan 22, Tue | Module01 - Python and Numpy |
+| 1 | 02 | Jan 24, Thu | Module01 - Lab and Questions |
+| 2 | 03 | Jan 29, Tue | Module02 - Basic Feedforward NNs |
+| 2 | 04 | Jan 31, Thu | Module02 - Lab and Questions |
+| 3 | 05 | Feb 05, Tue | Module03 - Basic Convolutional NNs |
+| 3 | 06 | Feb 07, Thu | Module03 - Lab and Questions |
+| 4 | 07 | Feb 12, Tue | Revision for Test |
+| 4 | 08 | Feb 14, Thu | Test (Last day to drop course is the 18th) |
+| 5 | 09 | Feb 19, Tue |  |
+| 5 | 10 | Feb 21, Thu |  |
+| 6 | 11 | Feb 26, Tue |  |
+| 6 | 12 | Feb 28, Thu |  |
+| 7 | 13 | Mar 05, Tue |  |
+| 7 | 14 | Mar 07, Thu |  |
+| 8 | 15 | Mar 12, Tue |  |
+| 8 | 16 | Mar 14, Thu |  |
+| 9 | 17 | Mar 19, Tue |  |
+| 9 | 18 | Mar 21, Thu |  |
+| - | - | - | Spring Recess |
+| 10 | 19 | Apr 02, Tue |  |
+| 10 | 20 | Apr 04, Thu |  |
+| 11 | 21 | Apr 09, Tue |  |
+| 11 | 22 | Apr 11, Thu |  |
+| 12 | 23 | Apr 16, Tue |  |
+| 12 | 24 | Apr 18, Thu |  |
+| 13 | 25 | Apr 23, Tue |  |
+| 13 | 26 | Apr 25, Thu |  |
+| 14 | 27 | Apr 30, Tue |  |
+| 14 | 28 | May 02, Thu |  |
+| 15 | 29 | May 07, Tue |  |
+| 15 | 30 | May 09, Thu |  |
 | Final Exam (Date & Time TBD) |
 
 ## Course Policies
