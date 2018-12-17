@@ -128,12 +128,8 @@
 * 30 points = Final Project
 * 1 bonus point to everyone if 80%+ complete the course evaluation survey
 
-**Grading Scale**
-* A for >= 90% 
-* B for >= 80%
-* C for >= 70%
-* D for >=60%
-* F for < 60% 
+**Grading Scheme**
+* <img src="syllabus/grading.png" align="middle" width="150"/> 
 
 ## Tips for Success
 * "Code comments are not needed" - Instead focus on writing code that works
