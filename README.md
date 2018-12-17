@@ -128,7 +128,7 @@
 * 30 points = Final Project
 * 1 bonus point to everyone if 80%+ complete the course evaluation survey
 
-**Grading Scheme**  
+**Grading Scheme (from Canvas)**  
 <img src="syllabus/grading.png" align="middle" width="250"/> 
 
 ## Tips for Success
