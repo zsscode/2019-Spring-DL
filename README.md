@@ -12,6 +12,9 @@
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
 ## About this Course
+
+Recently, deep learning is demonstrated to outperform human radiologists in detecting pneumonia from chest X-rays. It is also reliably used in iPhone-X for unlocking the phone through accurate face detection. Self-driving cars self-drive using the deep learning algorithms. Clearly, deep learning is rapidly becoming popular because of its high applicability and superior performance in almost all domains of human mental labor. Deep learning based applications have reached or surpassed human performance not only for industrial problems like face detection or stock market prediction but also for many problems in the field of biology and medicine. This course reviews a typical machine learning recipe, mathematical foundations for deep learning, and provides an introduction to deep learning. Topics include dense neural networks, convolutional neural networks, and recurrent neural networks. The course will cover building, training, and using deep neural networks for solving various machine learning problems like image classification and crime prediction. At the end of the course you will be able to differentiate what kinds of problems are best solved by deep learning algorithms and what are not. You will also be able to develop your own deep learning applications for solving problems of your choice.
+
 **Prerequisites**
 * CMP SCI 3130 or Graduate Standing in CS
 
