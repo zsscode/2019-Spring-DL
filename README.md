@@ -51,6 +51,7 @@ Recently, deep learning is demonstrated to outperform human radiologists in dete
 
 ## Course Schedule
 This schedule will be updated as the class progresses.  
+
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
 | 01 | 01 | Jan 22, Tue | Module01 - Python and Numpy (ToDo - create notebook)|
