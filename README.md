@@ -49,8 +49,8 @@ Recently, deep learning is demonstrated to outperform human radiologists in dete
 * "Machine Learning Yearning" (MLY) by Andrew Ng 
 * "Deep Learning" (DL) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville <br/> <br/> <img src="syllabus/dlwithpython.jpeg" align="middle" height="150"/>    <img src="syllabus/mlyearning.jpg" align="middle" height="150"/>    <img src="syllabus/dlgoodfellow.jpg" align="middle" height="150"/>  
 
-## Course Topics & Schedule
-
+## Course Schedule
+This schedule will be updated as the class progresses.
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
 | 01 | 01 | Jan 22, Tue | Module01 - Python and Numpy (ToDo - create notebook)|
@@ -86,7 +86,7 @@ Recently, deep learning is demonstrated to outperform human radiologists in dete
 | 15 | 30 | May 09, Thu |  |
 | - | - | - | Final Exam (Date & Time TBD) |  
 
-**Modules:**
+## Course Topics
 1. Python and Numpy (with lab)  
 1. Basic Feedforward Neural Networks (with lab)  
 1. Basic Convolutional Neural Networks (with lab)
