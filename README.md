@@ -44,7 +44,7 @@
 **Textbooks**
 * "Deep Learning with Python" (DLP) by François Chollet 
 * "Machine Learning Yearning" (MLY) by Andrew Ng 
-* "Deep Learning" (DL) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville <br/> <img src="syllabus/dlwithpython.jpeg" align="middle" height="150"/>  <img src="syllabus/mlyearning.jpg" align="middle" height="150"/>  <img src="syllabus/dlgoodfellow.jpg" align="middle" height="150"/>  
+* "Deep Learning" (DL) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville <br/> <br/> <img src="syllabus/dlwithpython.jpeg" align="middle" height="150"/>    <img src="syllabus/mlyearning.jpg" align="middle" height="150"/>    <img src="syllabus/dlgoodfellow.jpg" align="middle" height="150"/>  
 
 ## Course Topics & Schedule
 
