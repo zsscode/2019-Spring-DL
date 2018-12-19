@@ -115,11 +115,11 @@ Recently, deep learning is demonstrated to outperform human radiologists in dete
 **General**
 * Keep yourself out of plagarism - Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html)
 * Lecture recordings, audio or video, are not permitted
+* You are welcome to bring your laptop in class
 
 **Tests** 
-* There will be one Mid-term Coding Test
-* Test will be closed book and closed notes
-* Use of any type of electronics is strictly forbidden during tests
+* There will be one Test (yes, only one test)
+* Test will be CLOSED book and CLOSED notes, and CLOSED electronics
 
 **Attendance**  
 * Attendance will be recorded in every class
@@ -127,13 +127,14 @@ Recently, deep learning is demonstrated to outperform human radiologists in dete
 
 ## Assessment/Grading
 **Grade Composition**
-* 70 points = Mid-term Test
-* 30 points = Final Project
-* 1 bonus point to everyone if 80%+ complete the course evaluation survey
+* 60 points = Test
+* 5 + 5 points = Presentations
+* 30 points = Final Project Poster
+* 1 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
 **Grading Scheme (from Canvas)**  
-<img src="syllabus/grading.png" align="middle" width="250"/> 
+  <img src="syllabus/grading.png" align="middle" width="250"/> 
 
 ## Tips for Success
-* "Code comments are not needed" - Instead focus on writing code that works
+* "Code comments are not encouraged" - Instead focus on writing code that works
 * "The devil is in the detail" - Often recheck your understanding of the details
