@@ -1,5 +1,3 @@
-<img src="syllabus/umsl-mathcs-logo.png" align="middle" width="150"/> 
-</br> 
 <img src="syllabus/deep-learning-course-logo.png" align="middle" width="400"/> 
 
 ## Syllabus | Deep Learning - CMP SCI 4390/5390 | 2019 Spring
