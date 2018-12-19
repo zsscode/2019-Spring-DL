@@ -50,7 +50,7 @@ Recently, deep learning is demonstrated to outperform human radiologists in dete
 * "Deep Learning" (DL) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville <br/> <br/> <img src="syllabus/dlwithpython.jpeg" align="middle" height="150"/>    <img src="syllabus/mlyearning.jpg" align="middle" height="150"/>    <img src="syllabus/dlgoodfellow.jpg" align="middle" height="150"/>  
 
 ## Course Schedule
-This schedule will be updated as the class progresses.
+This schedule will be updated as the class progresses.  
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
 | 01 | 01 | Jan 22, Tue | Module01 - Python and Numpy (ToDo - create notebook)|
