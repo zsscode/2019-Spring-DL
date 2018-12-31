@@ -36,7 +36,7 @@ Recently, deep learning is demonstrated to outperform human radiologists in dete
 * Learn the major technology trends in deep learning 
 * Understand what makes deep learning different from traditional machine learning 
 * Understand the parameters in a deep neural network architecture 
-* Build, train, and use deep neural networks efficiently
+* Build, train, and use deep neural networks
 
 **Class meets**
 * TuTh 4 PM to 5:15 PM at SSB 218
