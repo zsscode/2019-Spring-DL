@@ -122,6 +122,9 @@ This schedule will be updated as the class progresses.
 * There will be one Test (yes, only one test)
 * Test will be CLOSED book and CLOSED notes, and CLOSED electronics
 
+**Presentations** 
+* You can choose to present alone or as a part of a two people team (formed randomly)
+
 **Attendance**  
 * Attendance will be recorded in every class
 * You will automatically fail the course if you miss more than 4 classes
