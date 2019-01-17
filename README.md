@@ -41,7 +41,7 @@ Deep learning is rapidly becoming popular because of its high applicability and 
 * TuTh 4 PM to 5:15 PM at SSB 218
 
 **Course Materials**
-* Syllabus, Slides, Project Requirements, Tests, and Samples are inside the relevant folders
+* Slides, Project Requirements, Tests, and Samples are inside the relevant folders
 
 **Textbooks**
 * "Deep Learning with Python" (DLP) by François Chollet 
