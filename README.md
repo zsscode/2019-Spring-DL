@@ -121,8 +121,15 @@ This schedule will be updated as the class progresses.
 * There will be one Test (yes, only one test)
 * Test will be CLOSED book, CLOSED notes, and CLOSED electronics
 
-**Presentations** 
-* You can choose to present alone or as a part of a two people team (formed randomly)
+**Paper Presentations** 
+* Graduate students will need to present alone
+* Undergraduate students can choose to present alone or as a part of a two people team
+
+**Projects**
+* Graduate students will work on their projects alone
+* Undergraduate students can choose to work on a project alone or as a part of a two people team
+* Although project may be completed by two people, grading will be done individually
+* Project grades will be average of (a) grades by instructor (b) peer grades (c) external examiner
 
 **Homeworks** 
 * There will be no homeworks (yes, no homeworks at all)
