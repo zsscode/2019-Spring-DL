@@ -119,7 +119,7 @@ This schedule will be updated as the class progresses.
 
 **Tests** 
 * There will be one Test (yes, only one test)
-* Test will be CLOSED book and CLOSED notes, and CLOSED electronics
+* Test will be CLOSED book, CLOSED notes, and CLOSED electronics
 
 **Presentations** 
 * You can choose to present alone or as a part of a two people team (formed randomly)
