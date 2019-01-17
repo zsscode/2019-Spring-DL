@@ -141,7 +141,7 @@ This schedule will be updated as the class progresses.
 ## Assessment/Grading
 **Grade Composition**
 * 60 points = Test
-* 5 + 5 points = Presentations
+* 5 + 5 points = Paper Presentations
 * 30 points = Final Project Poster & Poster Presentation
 * 1 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
