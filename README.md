@@ -124,6 +124,9 @@ This schedule will be updated as the class progresses.
 **Presentations** 
 * You can choose to present alone or as a part of a two people team (formed randomly)
 
+**Homeworks** 
+* There will be no homeworks (yes, no homeworks at all)
+
 **Attendance**  
 * Attendance will be recorded in every class
 * You will automatically fail the course if you miss more than 4 classes
