@@ -137,7 +137,3 @@ This schedule will be updated as the class progresses.
 
 **Grading Scheme (from Canvas)**  
   <img src="syllabus/grading.png" align="middle" width="250"/> 
-
-## Tips for Success
-* "Code comments are not encouraged" - Instead focus on writing code that works
-* "The devil is in the detail" - Often recheck your understanding of the details
