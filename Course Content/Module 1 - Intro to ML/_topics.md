@@ -19,3 +19,6 @@
 1. Dev (development) set — Which you use to tune parameters, select features, and make other decisions regarding the learning algorithm. Sometimes also called the hold-out cross validation set.
 1. Test set — which you use to evaluate the performance of the algorithm, but not to make
 any decisions regarding what learning algorithm or parameters to use.
+
+## Regression vs [Multi-Class/Binary] Classification 
+1. Classification tasks vs Regression tasks - [slide](https://github.com/badriadhikari/2019-Spring-DL/blob/master/Course%20Content/Module%201%20-%20Intro%20to%20ML/04%20Regression%20vs%20Classification.pdf)
