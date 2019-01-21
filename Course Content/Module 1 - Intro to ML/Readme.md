@@ -6,13 +6,12 @@
 1. The Python Numpy tutorial - see "01 Python_Numpy_Tutorial.ipynb" - https://colab.research.google.com/drive/1TOOqWylczZ3V6NkPhWiHmWb4sXbBLagg
 
 ## Introduction to NNs
-1. A Visual and Interactive Guide to the Basics of Neural Networks - 
-[slides](https://github.com/badriadhikari/2019-Spring-DL/blob/master/Course%20Content/Module%201%20-%20Intro%20to%20ML/02%20Visual%20Guide%20to%20NN.pdf) - http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+1. A Visual and Interactive Guide to the Basics of Neural Networks - http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/ - see 
 
 1. Develop Your First Neural Network in Python With Keras Step-By-Step - https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
 ## Value of a Hidden Layer
-1. Solving learning the XNOR funtion - [slide](https://github.com/badriadhikari/2019-Spring-DL/blob/master/Course%20Content/Module%201%20-%20Intro%20to%20ML/03%20XNOR%20and%20Hidden%20Layer.pdf)
+1. Solving learning the XNOR funtion - see "03 XNOR and Hidden Layer.pdf"
 
 ## Chapter 5 of MLY - "Your development and test sets"
 1. Training set — Which you run your learning algorithm on.
