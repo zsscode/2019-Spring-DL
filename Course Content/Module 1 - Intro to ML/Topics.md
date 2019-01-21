@@ -3,7 +3,7 @@
 
 1. Link to Google Colab - https://colab.research.google.com
 
-1. Colab link to the Python Numpy tutorial - https://colab.research.google.com/drive/1TOOqWylczZ3V6NkPhWiHmWb4sXbBLagg
+1. The Python Numpy tutorial - see "01 Python_Numpy_Tutorial.ipynb" - https://colab.research.google.com/drive/1TOOqWylczZ3V6NkPhWiHmWb4sXbBLagg
 
 ## Introduction to NNs
 1. A Visual and Interactive Guide to the Basics of Neural Networks - 
@@ -22,3 +22,9 @@ any decisions regarding what learning algorithm or parameters to use.
 
 ## Regression vs [Multi-Class/Binary] Classification 
 1. Classification tasks vs Regression tasks - [slide](https://github.com/badriadhikari/2019-Spring-DL/blob/master/Course%20Content/Module%201%20-%20Intro%20to%20ML/04%20Regression%20vs%20Classification.pdf)
+
+## Feedforward Neural Networks for Binary Classification
+1. Predict the Onset of Diabetes Based on Diagnostic Measures (The Pima Indians Diabetes Database) - see "05 NNs for Classification.ipynb" - https://colab.research.google.com/drive/1Y8MShp6dyccPUnq0oprLZ6dt2H2umFGx
+
+## Feedforward Neural Networks for Regression
+1. On the same dataset, use everything else to predict age of the individual - see "06 NNs for Regression.ipynb"
