@@ -88,6 +88,8 @@ This schedule will be updated as the class progresses.
 
 ## Course Topics
 Module I: Introduction to Machine Learning (will conclude with ‘the’ test)
+Python and Numpy Basics
+Introduction to Feedforward NNs and CNNs
 Module II: Fundamentals of Deep Learning
 Module III (Theoretical): Concepts in Deep Learning
 Module IV: Convolutional Neural Networks
