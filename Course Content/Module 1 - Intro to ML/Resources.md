@@ -14,4 +14,8 @@
 ## Value of a Hidden Layer
 1. Solving learning the XNOR funtion - [slide](https://github.com/badriadhikari/2019-Spring-DL/blob/master/Course%20Content/Module%201%20-%20Intro%20to%20ML/03%20XNOR%20and%20Hidden%20Layer.pdf)
 
-
+## Chapter 5 (Your development and test sets) of MLY
+1. Training set — Which you run your learning algorithm on.
+1. Dev (development) set — Which you use to tune parameters, select features, and make other decisions regarding the learning algorithm. Sometimes also called the hold-out cross validation set.
+1. Test set — which you use to evaluate the performance of the algorithm, but not to make
+any decisions regarding what learning algorithm or parameters to use.
