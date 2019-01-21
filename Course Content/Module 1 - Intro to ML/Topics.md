@@ -28,3 +28,11 @@ any decisions regarding what learning algorithm or parameters to use.
 
 ## Feedforward Neural Networks for Regression
 1. On the same dataset, use everything else to predict age of the individual - see "06 NNs for Regression.ipynb"
+
+## Convolutional Neural Networks for Multi-class Classification
+1. The MNIST example - 
+GIF of How CNN works - https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d 
+
+## The XGBoost Library
+
+
