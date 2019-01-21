@@ -6,7 +6,7 @@
 1. The Python Numpy tutorial - see "01 Python_Numpy_Tutorial.ipynb" - https://colab.research.google.com/drive/1TOOqWylczZ3V6NkPhWiHmWb4sXbBLagg
 
 ## Introduction to NNs
-1. A Visual and Interactive Guide to the Basics of Neural Networks - http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/ - see 
+1. A Visual and Interactive Guide to the Basics of Neural Networks - http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/ - see "02 Visual Guide to NN.pdf"
 
 1. Develop Your First Neural Network in Python With Keras Step-By-Step - https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
@@ -20,10 +20,10 @@
 any decisions regarding what learning algorithm or parameters to use.
 
 ## Regression vs [Multi-Class/Binary] Classification 
-1. Classification tasks vs Regression tasks - [slide](https://github.com/badriadhikari/2019-Spring-DL/blob/master/Course%20Content/Module%201%20-%20Intro%20to%20ML/04%20Regression%20vs%20Classification.pdf)
+1. Classification tasks vs Regression tasks - see "04 Regression vs Classification.pdf"
 
 ## Feedforward Neural Networks for Binary Classification
-1. Predict the Onset of Diabetes Based on Diagnostic Measures (The Pima Indians Diabetes Database) - see "05 NNs for Classification.ipynb" - https://colab.research.google.com/drive/1Y8MShp6dyccPUnq0oprLZ6dt2H2umFGx
+1. Predict the Onset of Diabetes Based on Diagnostic Measures (The Pima Indians Diabetes Database) - https://colab.research.google.com/drive/1Y8MShp6dyccPUnq0oprLZ6dt2H2umFGx - see "05 NNs for Classification.ipynb"
 
 ## Feedforward Neural Networks for Regression
 1. On the same dataset, use everything else to predict age of the individual - see "06 NNs for Regression.ipynb"
