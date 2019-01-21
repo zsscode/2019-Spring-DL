@@ -53,10 +53,10 @@ This schedule will be updated as the class progresses.
 
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
-| 01 | 01 | Jan 22, Tue | Module01 - Python and Numpy (ToDo - create notebook)|
-| 01 | 02 | Jan 24, Thu | Module01 - Lab and Questions |
-| 02 | 03 | Jan 29, Tue | |
-| 02 | 04 | Jan 31, Thu | |
+| 01 | 01 | Jan 22, Tue | Module 1 - Python and Numpy Tutorial|
+| 01 | 02 | Jan 24, Thu | Module 1 - Lab and Questions |
+| 02 | 03 | Jan 29, Tue | Module 1 - Introduction to NNs and CNNs|
+| 02 | 04 | Jan 31, Thu | Module 1 - Introduction to CNNs|
 | 03 | 05 | Feb 05, Tue | |
 | 03 | 06 | Feb 07, Thu | |
 | 04 | 07 | Feb 12, Tue | |
