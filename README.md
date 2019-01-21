@@ -59,10 +59,10 @@ This schedule will be updated as the class progresses.
 | 02 | 04 | Jan 31, Thu | |
 | 03 | 05 | Feb 05, Tue | |
 | 03 | 06 | Feb 07, Thu | |
-| 04 | 07 | Feb 12, Tue | Revision for Test |
-| 04 | 08 | Feb 14, Thu | Test (Last day to drop a course is Feb 18th) |
+| 04 | 07 | Feb 12, Tue | |
+| 04 | 08 | Feb 14, Thu | Revision for Test |
 | 05 | 09 | Feb 19, Tue | |
-| 05 | 10 | Feb 21, Thu | |
+| 05 | 10 | Feb 21, Thu | Test (at 1 month) |
 | 06 | 11 | Feb 26, Tue | |
 | 06 | 12 | Feb 28, Thu | |
 | 07 | 13 | Mar 05, Tue | |
@@ -87,29 +87,12 @@ This schedule will be updated as the class progresses.
 | - | - | - | Final Exam (Date & Time TBD) |  
 
 ## Course Topics
-1. Python and Numpy (with lab)  
-1. Basic Feedforward Neural Networks (with lab)  
-1. Basic Convolutional Neural Networks (with lab)
-2. Setting up Development and Test sets (Ch5 to Ch11 in MLY)
-2. Basic Error Analysis (Ch13 to Ch18 in MLY)
-2. Bias, Variance, and Learning Curves (Ch20 to Ch32 in MLY)
-2. Training and Testing on Different Distributions, & Debugging Inference Algorithms (Ch36 to Ch46 in MLY)
-2. End-to-end Deep Learning & Error Analysis by Parts (Ch47 to Ch57 in MLY)
-1. Machine Learning Basics (Ch5 of DL)
-1. What is Deep Learning? (Ch1 in DLP)
-1. Mathematical Building Blocks (Ch2 in DLP)
-1. Getting Started with Neural Networks (Ch3 in DLP)
-1. Fundamentals of Machine Learning (Ch4 in DLP)
-1. Deep Learning for Computer Vision (Ch5 in DLP)
-1. Convolutional Networks (Ch9 in DL)
-1. Deep Learning for Text and Sequences (Ch6 in DLP)
-1. Advanced Deep Learning Practices (Ch7 in DLP)
-1. Advanced Deep Learning Practices (Ch7 in DLP)
-1. Generative Deep Learning (Ch8 in DLP)
-1. Regulalization for Deep Learning (Ch7 in DL)
-1. Optimization for Training Deep Models (Ch8 in DL)
-1. Sequence Modeling: Recurrent and Recursive Nets (Ch10 in DL)
-1. Limitations and Future of DL (Ch9 in DLP)
+Module I: Introduction to Machine Learning (will conclude with ‘the’ test)
+Module II: Fundamentals of Deep Learning
+Module III (Theoretical): Concepts in Deep Learning
+Module IV: Convolutional Neural Networks
+Module V: Deep Learning in Practice
+Module VI: Limitations and Future of DL
 
 ## Course Policies
 **General**
