@@ -45,7 +45,7 @@ Deep learning is rapidly becoming popular because of its high applicability and 
 
 **Textbooks**
 * "Deep Learning with Python" (DLP) by François Chollet 
-* "Machine Learning Yearning" (MLY) by Andrew Ng 
+* "Machine Learning Yearning" (MLY) by Andrew Ng [pdf](https://www.deeplearning.ai/content/uploads/2018/09/Ng-MLY01-12.pdf)
 * "Deep Learning" (DL) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville <br/> <br/> <img src="syllabus/dlwithpython.jpeg" align="middle" height="150"/>    <img src="syllabus/mlyearning.jpg" align="middle" height="150"/>    <img src="syllabus/dlgoodfellow.jpg" align="middle" height="150"/>  
 
 ## Course Schedule
