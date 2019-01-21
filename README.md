@@ -87,14 +87,14 @@ This schedule will be updated as the class progresses.
 | - | - | - | Final Exam (Date & Time TBD) |  
 
 ## Course Topics
-**Module I: Introduction to Machine Learning (will conclude with ‘the’ test)**
-* Python and Numpy Basics
-* Introduction to Feedforward NNs and CNNs
-**Module II: Fundamentals of Deep Learning**
-**Module III (Theoretical): Concepts in Deep Learning**
-**Module IV: Convolutional Neural Networks**
-**Module V: Deep Learning in Practice**
-**Module VI: Limitations and Future of DL**
+**Module I: Introduction to Machine Learning (will conclude with ‘the’ test)**  
+* Python and Numpy Basics  
+* Introduction to Feedforward NNs and CNNs  
+**Module II: Fundamentals of Deep Learning**  
+**Module III (Theoretical): Concepts in Deep Learning**  
+**Module IV: Convolutional Neural Networks**  
+**Module V: Deep Learning in Practice**  
+**Module VI: Limitations and Future of DL**  
 
 ## Course Policies
 **General**
