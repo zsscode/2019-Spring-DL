@@ -11,3 +11,5 @@
 
 1. Develop Your First Neural Network in Python With Keras Step-By-Step - https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
+## Value of a Hidden Layer
+1. Solving learning the XNOR funtion - [slide]("Course Content/Module 1 - Intro to ML/03 XNOR and Hidden Layer.pdf"
