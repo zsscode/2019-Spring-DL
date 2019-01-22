@@ -21,6 +21,7 @@ any decisions regarding what learning algorithm or parameters to use.
 
 ## Regression vs [Multi-Class/Binary] Classification 
 1. Classification tasks vs Regression tasks - see "04 Regression vs Classification.pdf"
+1. [Optional] Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss - https://gombru.github.io/2018/05/23/cross_entropy_loss/
 
 ## Feedforward Neural Networks for Binary Classification
 1. Predict the Onset of Diabetes Based on Diagnostic Measures (The Pima Indians Diabetes Database) - https://colab.research.google.com/drive/1Y8MShp6dyccPUnq0oprLZ6dt2H2umFGx - see "05 NNs for Classification.ipynb"
