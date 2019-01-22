@@ -52,6 +52,7 @@ Deep learning is rapidly becoming popular because of its high applicability and 
 This schedule will be updated as the class progresses.  
 
 **Module 1**  
+
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
 | 01 | 01 | Jan 22, Tue | Python and Numpy Tutorial |
