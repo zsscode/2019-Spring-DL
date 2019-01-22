@@ -72,13 +72,13 @@ This schedule will be updated as the class progresses.
 | 09 | 17 | Mar 19, Tue | |
 | 09 | 18 | Mar 21, Thu | |
 | - | - | - | Spring Recess |
-| 10 | 19 | Apr 02, Tue |  |
+| 10 | 19 | Apr 02, Tue | NIPS 2018 Paper Presentations |
 | 10 | 20 | Apr 04, Thu |  |
 | 11 | 21 | Apr 09, Tue |  |
 | 11 | 22 | Apr 11, Thu |  |
 | 12 | 23 | Apr 16, Tue |  |
 | 12 | 24 | Apr 18, Thu |  |
-| 13 | 25 | Apr 23, Tue |  |
+| 13 | 25 | Apr 23, Tue | NIPS 2019 Paper Presentations |
 | 13 | 26 | Apr 25, Thu |  |
 | 14 | 27 | Apr 30, Tue |  |
 | 14 | 28 | May 02, Thu |  |
@@ -112,7 +112,8 @@ This schedule will be updated as the class progresses.
 * There will be one Test (yes, only one test)
 * Test will be CLOSED book, CLOSED notes, and CLOSED electronics
 
-**Paper Presentations** 
+**Presentations of NIPS 2018/2019 Papers** 
+* https://papers.nips.cc/
 * Graduate students will need to present alone
 * Undergraduate students can choose to present alone or as a part of a two people team
 
