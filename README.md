@@ -51,14 +51,15 @@ Deep learning is rapidly becoming popular because of its high applicability and 
 ## Course Schedule
 This schedule will be updated as the class progresses.  
 
+**Module 1** 
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
-| 01 | 01 | Jan 22, Tue | Module 1 - Python and Numpy Tutorial|
-| 01 | 02 | Jan 24, Thu | Module 1 - Python and Numpy Tutorial|
-| 02 | 03 | Jan 29, Tue | Lab (Bring Laptops to Class)|
-| 02 | 04 | Jan 31, Thu | Module 1 - Introduction to NNs and CNNs|
-| 03 | 05 | Feb 05, Tue | Module 1 - Introduction to CNNs|
-| 03 | 06 | Feb 07, Thu | Lab (Bring Laptops to Class)|
+| 01 | 01 | Jan 22, Tue | Python and Numpy Tutorial |
+| 01 | 02 | Jan 24, Thu | Introduction to NNs |
+| 02 | 03 | Jan 29, Tue | Introduction to CNNs |
+| 02 | 04 | Jan 31, Thu | Lab (Bring Laptops to Class)|
+| 03 | 05 | Feb 05, Tue | |
+| 03 | 06 | Feb 07, Thu | |
 | 04 | 07 | Feb 12, Tue | |
 | 04 | 08 | Feb 14, Thu | Revision for Test |
 | 05 | 09 | Feb 19, Tue | |
