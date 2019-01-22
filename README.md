@@ -121,7 +121,8 @@ This schedule will be updated as the class progresses.
 * Graduate students will work on their projects alone
 * Undergraduate students can choose to work on a project alone or as a part of a two people team
 * Although project may be completed by two people, grading will be done individually
-* Project grades will be average of (a) grades by instructor (b) peer grades (c) external examiner
+* Project grades will be average of (a) grades by instructor (b) peer grades, and (c) external examiner
+* Projects will conclude with (a) a small report (b) code submission, and (c) poster presentation
 
 **Homeworks** 
 * There will be no homeworks (yes, no homeworks at all)
