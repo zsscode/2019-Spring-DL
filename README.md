@@ -153,9 +153,13 @@ This schedule will be updated as the class progresses.
 **Homeworks** 
 * There will be no homeworks (yes, no homeworks at all)
 
+**Late Homework Submission (applies to project code & report submission)** 
+* You have a total of 5 late days
+* Once you use your late days, late homework submissions will get no points
+
 **Attendance**  
 * Attendance will be recorded in every class
-* You will automatically fail the course if you miss more than 4 classes
+* You will automatically fail the course if you miss more than 5 classes
 
 ## Assessment/Grading
 **Grade Composition**
