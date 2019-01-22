@@ -113,7 +113,7 @@ This schedule will be updated as the class progresses.
 * Test will be CLOSED book, CLOSED notes, and CLOSED electronics
 
 **Presentations of NIPS 2018/2019 Papers** 
-* You will choose a paper at https://papers.nips.cc/ and deliver 5 minute presentation
+* You will choose a paper at https://papers.nips.cc/ and deliver 6/7 minute presentation
 * Graduate students will need to present alone
 * Undergraduate students can choose to present alone or as a part of a two people team
 
