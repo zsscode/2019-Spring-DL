@@ -136,6 +136,12 @@ This schedule will be updated as the class progresses.
 **Tests** 
 * There will be one Test (yes, only one test)
 * Test will be CLOSED book, CLOSED notes, and CLOSED electronics
+* You will either need to write code on the test or predict the output of a code block
+* All questions will be from the following files in Module 1  
+- 01 Python Numpy Tutorial.ipynb
+- 05 NNs for Classification.ipynb
+- 06 NNs for Regression.ipynb
+- 08 Digit Image Classification MNIST.ipynb
 
 **Presentations of NIPS 2018/2019 Papers** 
 * You will choose a paper at https://papers.nips.cc/ and deliver 6/7 minute presentation
