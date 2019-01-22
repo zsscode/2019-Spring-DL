@@ -72,16 +72,16 @@ This schedule will be updated as the class progresses.
 | 09 | 17 | Mar 19, Tue | |
 | 09 | 18 | Mar 21, Thu | |
 | - | - | - | Spring Recess |
-| 10 | 19 | Apr 02, Tue | NIPS 2018 Paper Presentations |
-| 10 | 20 | Apr 04, Thu |  |
+| 10 | 19 | Apr 02, Tue |  |
+| 10 | 20 | Apr 04, Thu | NIPS 2018 Paper Presentations  |
 | 11 | 21 | Apr 09, Tue |  |
 | 11 | 22 | Apr 11, Thu |  |
 | 12 | 23 | Apr 16, Tue |  |
-| 12 | 24 | Apr 18, Thu |  |
-| 13 | 25 | Apr 23, Tue | NIPS 2019 Paper Presentations |
+| 12 | 24 | Apr 18, Thu | NIPS 2019 Paper Presentations |
+| 13 | 25 | Apr 23, Tue |  |
 | 13 | 26 | Apr 25, Thu |  |
-| 14 | 27 | Apr 30, Tue | Project Code and Report Due |
-| 14 | 28 | May 02, Thu |  |
+| 14 | 27 | Apr 30, Tue |  |
+| 14 | 28 | May 02, Thu | Project Code and Report Due |
 | 15 | 29 | May 07, Tue |  |
 | 15 | 30 | May 09, Thu |  |
 | - | - | - | Final Exam - Poster Presentation (Date & Time TBD) |  
