@@ -80,7 +80,7 @@ This schedule will be updated as the class progresses.
 | 12 | 24 | Apr 18, Thu |  |
 | 13 | 25 | Apr 23, Tue | NIPS 2019 Paper Presentations |
 | 13 | 26 | Apr 25, Thu |  |
-| 14 | 27 | Apr 30, Tue |  |
+| 14 | 27 | Apr 30, Tue | Project Code and Report Due |
 | 14 | 28 | May 02, Thu |  |
 | 15 | 29 | May 07, Tue |  |
 | 15 | 30 | May 09, Thu |  |
