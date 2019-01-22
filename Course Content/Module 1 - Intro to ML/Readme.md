@@ -34,5 +34,4 @@ any decisions regarding what learning algorithm or parameters to use.
 1. The MNIST example - see "08 Digit Image Classification MNIST.ipynb" [my Colab](https://colab.research.google.com/drive/16t0IYpq3YsGRaWdsd065e6zdRbGqJ0mY)
 
 ## The XGBoost Library
-
-
+1. Using the XGBoost library on the Pima Indian dataset - see "09 XGBoost Example.ipynb"
