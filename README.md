@@ -90,7 +90,7 @@ This schedule will be updated as the class progresses.
 
 **Module I: Introduction to Machine Learning (will conclude with ‘the’ test)**  
 * Python and Numpy Basics  
-* Introduction to Feedforward NNs and CNNs  
+* Feedforward NNs and CNNs using Keras 
 
 **Module II: Fundamentals of Deep Learning**  
 
