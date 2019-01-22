@@ -93,14 +93,39 @@ This schedule will be updated as the class progresses.
 * Feedforward NNs and CNNs using Keras 
 
 **Module II: Fundamentals of Deep Learning**  
+* Deep Learning and its Mathematical Building Blocks (Ch1 & C2 in DLP)  
+* Getting Started with Neural Networks (Ch3 in DLP)  
+* Fundamentals of Machine Learning (Ch4 in DLP)  
+* Machine Learning Basics (Ch5 of DL)  
 
 **Module III (Theoretical): Concepts in Deep Learning**  
+* Setting up Development and Test sets (Ch5 to Ch11 in MLY)  
+* Basic Error Analysis (Ch13 to Ch18 in MLY)  
+* Bias, Variance, and Learning Curves (Ch20 to Ch32 in MLY)  
+* Training and Testing on Different Distributions, & Debugging Inference Algorithms (Ch36 to Ch46 in MLY)  
+* End-to-end Deep Learning & Error Analysis by Parts (Ch47 to Ch57 in MLY)  
 
 **Module IV: Convolutional Neural Networks**  
+* GPUs
+* Different Types of CNNs
+* Deep Learning for Computer Vision (Ch5 in DLP)
+* Convolutional Networks (Ch9 in DL)
+* Residual Neural Networks
+* Hardware for Deep Learning
 
 **Module V: Deep Learning in Practice**  
+* Transfer Learning - Existing architectures - U-net, Resnet, VGGNet, etc.
+* Deep Learning for Text and Sequences (Ch6 in DLP)
+* Advanced Deep Learning Practices (Ch7 in DLP)
+* Advanced Deep Learning Practices (Ch7 in DLP)
+* Generative Deep Learning (Ch8 in DLP)
+* Unsupervised Learning
+* Regularization for Deep Learning (Ch7 in DL)
+* Optimization for Training Deep Models (Ch8 in DL)
+* Sequence Modeling: Recurrent and Recursive Nets (Ch10 in DL)
 
 **Module VI: Limitations and Future of DL**  
+* Limitations and Future of DL (Ch9 in DLP)
 
 ## Course Policies
 **General**
