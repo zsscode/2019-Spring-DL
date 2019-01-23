@@ -3,7 +3,7 @@
 ## Deep Learning - CMP SCI 4390/5390
 ## Syllabus - 2019 Spring
 
-[Academic Calendar](https://www.umsl.edu/services/fa/telephone-directory/academic_calendar.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](http://www.umsl.edu/~registration/students/final-exam-schedule-fall-2018-updated.pdf) | [Spring 2019 - All Courses](https://www.umsl.edu/~registration/students/sp19-pdf.pdf) 
+[Academic Calendar](https://www.umsl.edu/services/fa/telephone-directory/academic_calendar.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html) | [Spring 2019 - All Courses](https://www.umsl.edu/~registration/students/sp19-pdf.pdf) 
 
 ## About the Instructor
 * Name: Badri Adhikari
