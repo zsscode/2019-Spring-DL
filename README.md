@@ -84,7 +84,7 @@ This schedule will be updated as the class progresses.
 | 14 | 28 | May 02, Thu | Project Code and Report Due |
 | 15 | 29 | May 07, Tue |  |
 | 15 | 30 | May 09, Thu |  |
-| - | - | - | Final Exam - Poster Presentation (Date & Time TBD) |  
+| - | - | - | (Final Exam) Poster Presentation on Tuesday, 14 May 02:45 – 04:45 PM |  
 
 ## Course Topics
 
