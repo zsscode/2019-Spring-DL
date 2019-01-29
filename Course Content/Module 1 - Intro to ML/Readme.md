@@ -6,7 +6,7 @@
 1. The Python Numpy tutorial - see "01 Python Numpy Tutorial.ipynb" - [my Colab](https://colab.research.google.com/drive/1TOOqWylczZ3V6NkPhWiHmWb4sXbBLagg)
 
 ## Introduction to NNs
-1. A Visual and Interactive Guide to the Basics of Neural Networks - http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/ - see "02 Visual Guide to NN.pdf"
+1. A Visual and Interactive Guide to the Basics of Neural Networks - [slides](https://docs.google.com/presentation/d/1BnznMKu3NYNoghGcb58TT27LFgcdNStdQIN3UdOHZa8/edit?usp=sharing), original [tutorial](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/) - see "02 Visual Guide to NN.pdf"
 
 1. Develop Your First Neural Network in Python With Keras Step-By-Step - https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
