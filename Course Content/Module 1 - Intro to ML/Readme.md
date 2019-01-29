@@ -4,7 +4,7 @@
 1. Link to Google Colab - https://colab.research.google.com
 
 1. The Python Numpy tutorial
-  - see "01 Python Numpy Tutorial.ipynb" - [my Colab](https://colab.research.google.com/drive/1TOOqWylczZ3V6NkPhWiHmWb4sXbBLagg)
+   - see "01 Python Numpy Tutorial.ipynb" - [my Colab (https://colab.research.google.com/drive/1TOOqWylczZ3V6NkPhWiHmWb4sXbBLagg)
 
 ## Introduction to NNs
 * A Visual and Interactive Guide to the Basics of Neural Networks  
