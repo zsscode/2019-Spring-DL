@@ -54,8 +54,8 @@ This schedule will be updated as the class progresses.
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
 | 01 | 01 | Jan 22, Tue | Syllabus; Python and Numpy Tutorial up to 'List comprehensions' |
-| 01 | 02 | Jan 24, Thu | Finished the Python and Numpy Tutorial |
-| 02 | 03 | Jan 29, Tue | |
+| 01 | 02 | Jan 24, Thu | Python and Numpy Tutorial |
+| 02 | 03 | Jan 29, Tue | Visual Guide to NNs |
 | 02 | 04 | Jan 31, Thu | Lab on Python, Numpy and Keras (Class at ESH 00005) |
 | 03 | 05 | Feb 05, Tue | |
 | 03 | 06 | Feb 07, Thu | |
