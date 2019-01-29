@@ -43,7 +43,7 @@ any decisions regarding what learning algorithm or parameters to use.
 ## Convolutional Neural Networks for Multi-class Classification
 1. An intuitive guide to Convolutional Neural Networks 
    - https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
-   - see "06 CNN Introduction.pdf"
+   - see "07 CNN Introduction.pdf"
 1. The MNIST example
    - see "08 Digit Image Classification MNIST.ipynb"
    - [at Colab](https://colab.research.google.com/drive/16t0IYpq3YsGRaWdsd065e6zdRbGqJ0mY)
