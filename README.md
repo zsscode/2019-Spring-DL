@@ -93,7 +93,7 @@ This schedule will be updated as the class progresses.
 * Feedforward NNs and CNNs using Keras 
 
 **Module II: Fundamentals of Deep Learning**  
-* Deep Learning and its Mathematical Building Blocks (Ch1 & C2 in DLP)  
+* Deep Learning and its Mathematical Building Blocks (Ch1 & Ch2 in DLP)  
 * Getting Started with Neural Networks (Ch3 in DLP)  
 * Fundamentals of Machine Learning (Ch4 in DLP)  
 * Machine Learning Basics (Ch5 of DL)  
