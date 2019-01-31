@@ -57,7 +57,7 @@ This schedule will be updated as the class progresses.
 | 01 | 02 | Jan 24, Thu | Python and Numpy Tutorial |
 | 02 | 03 | Jan 29, Tue | Visual Guide to NNs; XNOR funtion; Training, Dev & Test Sets |
 | 02 | 04 | Jan 31, Thu | Lab on Python, Numpy and Keras (Class at ESH 00005) |
-| 03 | 05 | Feb 05, Tue | Review of Syllabus & Course contents; |
+| 03 | 05 | Feb 05, Tue | Review of Syllabus & Discuss Test Samples; |
 | 03 | 06 | Feb 07, Thu | |
 | 04 | 07 | Feb 12, Tue | |
 | 04 | 08 | Feb 14, Thu | Revision for Test |
