@@ -33,7 +33,9 @@ any decisions regarding what learning algorithm or parameters to use.
 ## Feedforward Neural Networks for Binary Classification
 1. Predict the Onset of Diabetes Based on Diagnostic Measures (The Pima Indians Diabetes Database)
    - see "05 NNs for Classification.ipynb" 
-   - [at Colab](https://colab.research.google.com/drive/1Y8MShp6dyccPUnq0oprLZ6dt2H2umFGx)
+   - [at Colab](https://colab.research.google.com/drive/1Y8MShp6dyccPUnq0oprLZ6dt2H2umFGx)  
+1. Concepts of Accuracy, Recall, Precision, and F1-Score
+   - https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c  
 
 ## Feedforward Neural Networks for Regression
 1. On the same dataset, use everything else to predict age of the individual
