@@ -58,7 +58,7 @@ This schedule will be updated as the class progresses.
 | 02 | 03 | Jan 29, Tue | Visual Guide to NNs; XNOR funtion; Training, Dev & Test Sets |
 | 02 | 04 | Jan 31, Thu | Lab on Python, Numpy and Keras (Class at ESH 00005) |
 | 03 | 05 | Feb 05, Tue | Review of Syllabus & Discuss Test Samples; 05_NNs_for_Classification.ipynb |
-| 03 | 06 | Feb 07, Thu | |
+| 03 | 06 | Feb 07, Thu | 06_NNs_for_Regression.ipynb; Intro to CNNs; 08_Digit_Image_Classification_MNIST.ipynb |
 | 04 | 07 | Feb 12, Tue | |
 | 04 | 08 | Feb 14, Thu | Revision for Test |
 | 05 | 09 | Feb 19, Tue | |
