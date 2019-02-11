@@ -51,7 +51,8 @@ any decisions regarding what learning algorithm or parameters to use.
 1. The MNIST example
    - see "08 Digit Image Classification MNIST.ipynb"
    - [at Colab](https://colab.research.google.com/drive/16t0IYpq3YsGRaWdsd065e6zdRbGqJ0mY)
-1. [Optional] Multi-class classification on the Fashion MNIST Dataset - https://www.tensorflow.org/tutorials/keras/basic_classification  
+1. [Optional] Multi-class classification on the Fashion MNIST Dataset
+   - https://www.tensorflow.org/tutorials/keras/basic_classification  
 
 ## The XGBoost Library
 1. Using the XGBoost library on the Pima Indian dataset
