@@ -61,12 +61,12 @@ This schedule will be updated as the class progresses.
 | 03 | 06 | Feb 07, Thu | 06_NNs_for_Regression.ipynb; Intro to CNNs |
 | 04 | 07 | Feb 12, Tue | 08_Digit_Image_Classification_MNIST.ipynb |
 | 04 | 08 | Feb 14, Thu | Revision for Test |
-| 05 | 09 | Feb 19, Tue | |
+| 05 | 09 | Feb 19, Tue | XGBoost Library; Module II Slides 1 to 22 |
 | 05 | 10 | Feb 21, Thu | TEST |
 | 06 | 11 | Feb 26, Tue | |
 | 06 | 12 | Feb 28, Thu | |
 | 07 | 13 | Mar 05, Tue | |
-| 07 | 14 | Mar 07, Thu | |
+| 07 | 14 | Mar 07, Thu | Discussion of Project Ideas |
 | 08 | 15 | Mar 12, Tue | |
 | 08 | 16 | Mar 14, Thu | |
 | 09 | 17 | Mar 19, Tue | |
