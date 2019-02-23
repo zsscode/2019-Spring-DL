@@ -1,7 +1,7 @@
-Project Objective
+### Project Objective
 Design, implement, debug, evaluate, and benchmark a deep learning method on a dataset you create or curate.
 
-Evaluation Criteria
+#### Evaluation Criteria
 1. [3 points] Effort to curate/create your dataset (at least a thousand records/images)
    - Preprocessing (e.g. lowering resolution), cleaning, data summary
    - Outliers analysis
@@ -28,8 +28,8 @@ Evaluation Criteria
   - a Readme.txt file that outlines the steps for reproducing everything
   - Hosting online is encouraged (such as GitHub)
 
-Example1:
+### Example1:
 The goal in this project is to develop a convolutional neural network model that can identify my mood looking at a picture of my face. I took 1000 pictures of my face in various settings - 200 smiling, 200 laughing, 200 sad, 200 crying, and 200 neutral. I then tagged each of those pictures manually. Next, I randomly spitted the data into - 600 pictures for training, 200 for validation, and 200 for testing. All images are cropped to 256 x 256 dimensions. I wrote a Python matplotlib code to visualize all the 1000 images (took 1 hour just to run). Next, I build a single layer CNN model with 64 filters. The 5-class accuracy I obtained is 40%.
 
-Example2:
+### Example2:
 The goal in this project is to develop a convolutional neural network model that can print digital time from the picture of a digital clock. I took 1000 pictures of my digital clock at different time. I then tagged each of those pictures manually. Next, I randomly spitted the data into - 600 pictures for training, 200 for validation, and 200 for testing. All images are cropped to 256 x 256 dimensions. I wrote a Python matplotlib code to visualize all the 1000 images (took 1 hour just to run). Next, I build a single layer CNN model with 64 filters. The X-class accuracy I obtained is 5%.
