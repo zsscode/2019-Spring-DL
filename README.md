@@ -64,7 +64,7 @@ This schedule will be updated as the class progresses.
 | 05 | 09 | Feb 19, Tue | XGBoost Library; Module II Slides 1 to 22 |
 | 05 | 10 | Feb 21, Thu | TEST |
 | 06 | 11 | Feb 26, Tue | |
-| 06 | 12 | Feb 28, Thu | |
+| 06 | 12 | Feb 28, Thu | Project Requirements |
 | 07 | 13 | Mar 05, Tue | |
 | 07 | 14 | Mar 07, Thu | Discussion of Project Ideas |
 | 08 | 15 | Mar 12, Tue | |
