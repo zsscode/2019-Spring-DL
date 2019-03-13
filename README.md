@@ -67,7 +67,7 @@ This schedule will be updated as the class progresses.
 | 06 | 12 | Feb 28, Thu | Project Requirements; Module II Slides 37 to 52 |
 | 07 | 13 | Mar 05, Tue | Module II Slides 53 to 72 |
 | 07 | 14 | Mar 07, Thu | Discussion of Project Ideas; Module II Slides 73 to 74 |
-| 08 | 15 | Mar 12, Tue | |
+| 08 | 15 | Mar 12, Tue | Module II Slides 75 to 98 |
 | 08 | 16 | Mar 14, Thu | |
 | 09 | 17 | Mar 19, Tue | |
 | 09 | 18 | Mar 21, Thu | |
