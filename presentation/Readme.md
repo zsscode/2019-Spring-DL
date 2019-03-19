@@ -1,3 +1,13 @@
+## Presentation Objective
+Learn to understand and analyze findings in a deep learning paper (NIPS papers).
+
+## Guidelines
+1. Read "reading_a_cs_research_paper.pdf" and "how_to_read_a_paper.pdf" in this folder.
+2. Select a NIPS paper of your choice.
+3. Prepare slides to present your understanding/analysis of the paper.
+4. You will have maximum 5 minutes to present.
+
+## Evaluation Criteria
 
 1. [1 point] Finishing your presentation between 3 and 5 minutes.
 
