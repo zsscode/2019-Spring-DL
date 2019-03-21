@@ -139,9 +139,8 @@ This schedule will be updated as the class progresses.
 * You will either need to write code on the test or predict the output of a code block
 
 **Presentations of NIPS 2018/2019 Papers** 
-* You will choose a paper at https://papers.nips.cc/ and deliver 6/7 minute presentation
-* Graduate students will need to present alone
-* Undergraduate students can choose to present alone or as a part of a two people team
+* You will choose a paper at https://papers.nips.cc/ and deliver minute presentation
+* See the folder "presentation" for details
 
 **Projects**
 * Graduate students will work on their projects alone
