@@ -98,22 +98,14 @@ This schedule will be updated as the class progresses.
 * Fundamentals of Machine Learning (Ch4 in DLP)  
 * Machine Learning Basics (Ch5 of DL)  
 
-**Module III (Theoretical): Concepts in Deep Learning**  
-* Setting up Development and Test sets (Ch5 to Ch11 in MLY)  
-* Basic Error Analysis (Ch13 to Ch18 in MLY)  
-* Bias, Variance, and Learning Curves (Ch20 to Ch32 in MLY)  
-* Training and Testing on Different Distributions, & Debugging Inference Algorithms (Ch36 to Ch46 in MLY)  
-* End-to-end Deep Learning & Error Analysis by Parts (Ch47 to Ch57 in MLY)  
-
-**Module IV: Convolutional Neural Networks**  
-* GPUs
-* Different Types of CNNs
+**Module III: Convolutional Neural Networks**  
 * Deep Learning for Computer Vision (Ch5 in DLP)
+* Different Types of CNNs
 * Convolutional Networks (Ch9 in DL)
 * Residual Neural Networks
-* Hardware for Deep Learning
+* Hardware for Deep Learning / GPUs
 
-**Module V: Deep Learning in Practice**  
+**Module IV: Deep Learning in Practice**  
 * Transfer Learning - Existing architectures - U-net, Resnet, VGGNet, etc.
 * Deep Learning for Text and Sequences (Ch6 in DLP)
 * Advanced Deep Learning Practices (Ch7 in DLP)
@@ -124,7 +116,15 @@ This schedule will be updated as the class progresses.
 * Optimization for Training Deep Models (Ch8 in DL)
 * Sequence Modeling: Recurrent and Recursive Nets (Ch10 in DL)
 
+**Module V: Review of Concepts in Deep Learning**  
+* Setting up Development and Test sets (Ch5 to Ch11 in MLY)  
+* Basic Error Analysis (Ch13 to Ch18 in MLY)  
+* Bias, Variance, and Learning Curves (Ch20 to Ch32 in MLY)  
+* Training and Testing on Different Distributions, & Debugging Inference Algorithms (Ch36 to Ch46 in MLY)  
+* End-to-end Deep Learning & Error Analysis by Parts (Ch47 to Ch57 in MLY)  
+
 **Module VI: Limitations and Future of DL**  
+* The Backpropagation Algorithm
 * Limitations and Future of DL (Ch9 in DLP)
 
 ## Course Policies
