@@ -4,7 +4,7 @@ Learn to understand and analyze findings in a deep learning paper (NIPS papers).
 ## Guidelines
 1. Read "reading_a_cs_research_paper.pdf" and "how_to_read_a_paper.pdf" in this folder.
 2. Select a recent NIPS paper of your choice
-   - https://nips.cc/Conferences/2017/Schedule?type=Poster & https://nips.cc/Conferences/2017/Schedule?type=Oral (2017)
+   - [2017] [Poster](https://nips.cc/Conferences/2017/Schedule?type=Poster) or [Oral](https://nips.cc/Conferences/2017/Schedule?type=Oral)
    - https://nips.cc/Conferences/2018/Schedule?type=Poster & https://nips.cc/Conferences/2018/Schedule?type=Oral (2018)
 3. Graduate students will need to present alone and Undergraduate students can choose to present alone or as a part of a two people team
 4. Prepare slides to present your understanding/analysis of the paper.
