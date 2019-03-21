@@ -138,7 +138,7 @@ This schedule will be updated as the class progresses.
 * Test will be CLOSED book, CLOSED notes, and CLOSED electronics
 * You will either need to write code on the test or predict the output of a code block
 
-**Presentations of NIPS 2018/2019 Papers** 
+**Presentations of NIPS Papers** 
 * You will choose a paper at https://papers.nips.cc/ and deliver minute presentation
 * See the folder "presentation" for details
 
