@@ -170,6 +170,7 @@ This schedule will be updated as the class progresses.
 **Grading Scheme (from Canvas)**  
   <img src="syllabus/grading.png" align="middle" width="250"/> 
 
+---------
 #### “A Little Learning” by Alexander Pope
 A little learning is a dangerous thing;  
 Drink deep, or taste not the Pierian spring:  
