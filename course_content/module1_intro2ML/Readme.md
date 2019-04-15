@@ -44,7 +44,7 @@ any decisions regarding what learning algorithm or parameters to use.
 
 ## Convolutional Neural Networks for Multi-class Classification
 1. Densely connected Neural Networks vs Convolutional neural networks
-   - Ant vs Hulk
+   - Ant vs Hulk - Read "DCNvsCNN.md"
 1. An intuitive guide to Convolutional Neural Networks 
    - https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
    - see "07 CNN Introduction.pdf"
