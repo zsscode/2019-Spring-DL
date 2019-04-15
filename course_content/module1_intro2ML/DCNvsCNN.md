@@ -1,4 +1,4 @@
-Densely connected Neural Networks vs Convolutional neural networks  
+## Densely connected Neural Networks vs Convolutional neural networks  
 
 Coca-cola ad - Hulk vs Antman https://www.youtube.com/watch?v=sMkGwCw7iv8 (size corresponds to the number of parameters/connections)
 
