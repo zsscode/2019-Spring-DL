@@ -72,10 +72,10 @@ This schedule will be updated as the class progresses.
 | 09 | 17 | Mar 19, Tue | Module II Slides 99 to 127 |
 | 09 | 18 | Mar 21, Thu | Module II Slides 128 to END |
 | - | - | - | Spring Recess |
-| 10 | 19 | Apr 02, Tue | Module III Slides 1 to 11 |
+| 10 | 19 | Apr 02, Tue | Module III(A) Slides 1 to 11 |
 | 10 | 20 | Apr 04, Thu | NIPS 2017 Paper Presentations  |
 | 11 | 21 | Apr 09, Tue | No Class |
-| 11 | 22 | Apr 11, Thu |  |
+| 11 | 22 | Apr 11, Thu | Module III(A) Slides 12 to 23 |
 | 12 | 23 | Apr 16, Tue |  |
 | 12 | 24 | Apr 18, Thu | NIPS 2018 Paper Presentations |
 | 13 | 25 | Apr 23, Tue |  |
