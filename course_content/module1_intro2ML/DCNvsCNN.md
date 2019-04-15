@@ -1,6 +1,7 @@
 ## Densely connected Neural Networks vs Convolutional neural networks  
 
-- Coca-cola ad - Hulk vs Antman https://www.youtube.com/watch?v=sMkGwCw7iv8 (size corresponds to the number of parameters/connections)
+- Coca-cola ad - Hulk vs Antman (size corresponds to the number of parameters/connections)
+- https://www.youtube.com/watch?v=sMkGwCw7iv8 
 
 #### A convolutional neuron does what a lifeguard does at a pool
 - He scans the pool’s surface creating an output map (that is exactly what convolution does)
