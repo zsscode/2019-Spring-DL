@@ -139,8 +139,8 @@ This schedule will be updated as the class progresses.
 * You will either need to write code on the test or predict the output of a code block
 
 **Presentations of NIPS Papers** 
-* You will choose a paper at https://papers.nips.cc/ and deliver minute presentation
-* See the folder "presentation" for details
+* You will choose a paper at https://papers.nips.cc/ and present it to the class
+* See the folder "presentation_guidelines" for details
 
 **Projects**
 * Graduate students will work on their projects alone
