@@ -8,11 +8,11 @@ Learn to understand and analyze findings in a deep learning paper (NIPS papers).
    - [2018] [Poster](https://nips.cc/Conferences/2018/Schedule?type=Poster) or [Oral](https://nips.cc/Conferences/2018/Schedule?type=Oral)
 3. Graduate students will need to present alone and Undergraduate students can choose to present alone or as a part of a two people team
 4. Prepare slides to present your understanding/analysis of the paper.
-5. You will have maximum 5 minutes to present.
+5. You will have maximum 4 minutes to present.
 
 ## Evaluation Criteria
 
-1. [1 point] Finishing your presentation between 3 and 5 minutes.
+1. [1 point] Finishing your presentation between 3 and 4 minutes.
 
 1. [1 point] What is the research problem the paper attempts to address?  
 What is the motivation of the research work? Is there a crisis in the research field that the paper attempts to resolve? Is the research work attempting to overcome the weaknesses of existing approaches? Is an existing research paradigm challenged? In short, what is the niche of the paper?
