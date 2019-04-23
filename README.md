@@ -74,7 +74,7 @@ This schedule will be updated as the class progresses.
 | - | - | - | Spring Recess |
 | 10 | 19 | Apr 02, Tue | Module III(A) Slides 1 to 11 |
 | 10 | 20 | Apr 04, Thu | Student Presentations of NIPS 2017 Papers |
-| 11 | 21 | Apr 09, Tue | No Class |
+| 11 | 21 | Apr 09, Tue | No Class (prepare.ai) |
 | 11 | 22 | Apr 11, Thu | Module III(A) Slides 12 to 23 |
 | 12 | 23 | Apr 16, Tue | Module III(A) Slides 24 to 35 |
 | 12 | 24 | Apr 18, Thu | Student Presentations of NIPS 2018 Papers |
@@ -82,7 +82,7 @@ This schedule will be updated as the class progresses.
 | 13 | 26 | Apr 25, Thu |  |
 | 14 | 27 | Apr 30, Tue |  |
 | 14 | 28 | May 02, Thu | Project Code and Report Due |
-| 15 | 29 | May 07, Tue | No Class |
+| 15 | 29 | May 07, Tue | No Class (conference travel) |
 | 15 | 30 | May 09, Thu |  |
 | - | - | - | (Final Exam) Poster Presentation on Tuesday, 14 May 02:45 – 04:45 PM |  
 
