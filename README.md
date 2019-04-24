@@ -72,13 +72,13 @@ This schedule will be updated as the class progresses.
 | 09 | 17 | Mar 19, Tue | Module II Slides 99 to 127 |
 | 09 | 18 | Mar 21, Thu | Module II Slides 128 to END |
 | - | - | - | Spring Recess |
-| 10 | 19 | Apr 02, Tue | Module III(A) Slides 1 to 11 |
+| 10 | 19 | Apr 02, Tue | Module III Slides 1 to 11 |
 | 10 | 20 | Apr 04, Thu | Student Presentations of NIPS 2017 Papers |
 | 11 | 21 | Apr 09, Tue | No Class (prepare.ai) |
-| 11 | 22 | Apr 11, Thu | Module III(A) Slides 12 to 23 |
-| 12 | 23 | Apr 16, Tue | Module III(A) Slides 24 to 35 |
+| 11 | 22 | Apr 11, Thu | Module III Slides 12 to 23 |
+| 12 | 23 | Apr 16, Tue | Module III Slides 24 to 35 |
 | 12 | 24 | Apr 18, Thu | Student Presentations of NIPS 2018 Papers |
-| 13 | 25 | Apr 23, Tue |  |
+| 13 | 25 | Apr 23, Tue | Module III Slides 36 to 47 |
 | 13 | 26 | Apr 25, Thu |  |
 | 14 | 27 | Apr 30, Tue |  |
 | 14 | 28 | May 02, Thu | Project Code and Report Due |
@@ -103,10 +103,10 @@ This schedule will be updated as the class progresses.
 * Different Types of CNNs
 * Convolutional Networks (Ch9 in DL)
 * Residual Neural Networks
+* Transfer Learning - Existing architectures - U-net, Resnet, VGGNet, etc.
 * Hardware for Deep Learning / GPUs
 
 **Module IV: Deep Learning in Practice**  
-* Transfer Learning - Existing architectures - U-net, Resnet, VGGNet, etc.
 * Deep Learning for Text and Sequences (Ch6 in DLP)
 * Advanced Deep Learning Practices (Ch7 in DLP)
 * Advanced Deep Learning Practices (Ch7 in DLP)
