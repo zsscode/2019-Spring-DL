@@ -79,8 +79,8 @@ This schedule will be updated as the class progresses.
 | 12 | 23 | Apr 16, Tue | Module III Slides 24 to 35 |
 | 12 | 24 | Apr 18, Thu | Student Presentations of NIPS 2018 Papers |
 | 13 | 25 | Apr 23, Tue | Module III Slides 36 to 47 |
-| 13 | 26 | Apr 25, Thu |  |
-| 14 | 27 | Apr 30, Tue |  |
+| 13 | 26 | Apr 25, Thu | Module III Slides 48 to 65 |
+| 14 | 27 | Apr 30, Tue | Plan: Module III Slides 67 to END |
 | 14 | 28 | May 02, Thu | Project Code and Report Due |
 | 15 | 29 | May 07, Tue | No Class (conference travel) |
 | 15 | 30 | May 09, Thu |  |
