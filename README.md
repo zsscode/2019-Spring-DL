@@ -176,3 +176,8 @@ A little learning is a dangerous thing;
 Drink deep, or taste not the Pierian spring:  
 There shallow draughts intoxicate the brain,  
 And drinking largely sobers us again.  
+
+---------
+## Selected Student Projects
+* Jeffrey's Mood Detection Project - https://github.com/jnkx9c/DL_Project/
+
