@@ -116,16 +116,16 @@ This schedule will be updated as the class progresses.
 * Optimization for Training Deep Models (Ch8 in DL)
 * Sequence Modeling: Recurrent and Recursive Nets (Ch10 in DL)
 
-**Module V: Review of Concepts in Deep Learning**  
+**Module V: Limitations and Future of DL**  
+* The Backpropagation Algorithm
+* Limitations and Future of DL (Ch9 in DLP)
+
+**[If Time Permits] Module VI: Review of Concepts in Deep Learning**  
 * Setting up Development and Test sets (Ch5 to Ch11 in MLY)  
 * Basic Error Analysis (Ch13 to Ch18 in MLY)  
 * Bias, Variance, and Learning Curves (Ch20 to Ch32 in MLY)  
 * Training and Testing on Different Distributions, & Debugging Inference Algorithms (Ch36 to Ch46 in MLY)  
 * End-to-end Deep Learning & Error Analysis by Parts (Ch47 to Ch57 in MLY)  
-
-**Module VI: Limitations and Future of DL**  
-* The Backpropagation Algorithm
-* Limitations and Future of DL (Ch9 in DLP)
 
 ## Course Policies
 **General**
