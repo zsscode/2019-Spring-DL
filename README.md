@@ -181,4 +181,4 @@ And drinking largely sobers us again.
 ## Students' Projects
 * Jeffrey's Mood Detection Project - https://github.com/jnkx9c/DL_Project/
 * Andrew's Street Sign Classification Project - https://github.com/Hopding/street-sign-classifier
-
+* Trevor's Flower Classification - https://github.com/Trevor-Parsons/DL-Semester-Project
