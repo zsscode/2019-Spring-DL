@@ -184,3 +184,5 @@ And drinking largely sobers us again.
 * Trevor's Flower Classification - https://github.com/Trevor-Parsons/DL-Semester-Project
 * Cole's Dice Detector - https://github.com/ColeAlves/DiceDetector/
 * Patrick and Cody's Analog-clock Time Prediction - https://github.com/pkong0414/Deep-Learning-Projects/ & https://github.com/Balfabb7/deepLearning
+* Andrew's Digital Clock Project - https://github.com/andrewHosna/dl_ai_project
+
