@@ -183,3 +183,4 @@ And drinking largely sobers us again.
 * Andrew's Street Sign Classification Project - https://github.com/Hopding/street-sign-classifier
 * Trevor's Flower Classification - https://github.com/Trevor-Parsons/DL-Semester-Project
 * Cole's Dice Detector - https://github.com/ColeAlves/DiceDetector/
+* Patrick and Cody's Analog-clock Time Prediction - https://github.com/pkong0414/Deep-Learning-Projects/ & https://github.com/Balfabb7/deepLearning
